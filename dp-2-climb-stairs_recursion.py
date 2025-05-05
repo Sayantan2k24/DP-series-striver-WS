@@ -6,3 +6,4 @@ def f(index):
 
 n = int(input("Enter the stair number: "))
 print(f(n))
+
